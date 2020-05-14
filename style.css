@@ -7,7 +7,7 @@
 
 body {
     background-image: url("https://render.fineartamerica.com/images/rendered/default/poster/10/8/break/images/artworkimages/medium/1/san-francisco-bay-bridge-city-lights-dan-wheeler.jpg");
-    height: 850px;
+    height: 750px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -76,8 +76,8 @@ img {
 }
 
 .vizualization {
-    width: 50% !important;
-    height: 50% !important;
+    width: 80% !important;
+    height: 80% !important;
 }
 
 
@@ -103,8 +103,8 @@ p {
 /* Box */
 
 .box {
-    margin-top: 50px;
-    margin-bottom: 60px;
+    margin-top: 70px;
+    margin-bottom: 90px;
     padding: 10px 30px 10px;
     color: #213159;
     background-color: white;
@@ -141,7 +141,7 @@ footer {
 
 /* Media Queries */
 
-@media(max-width: 992px) {
+@media(max-width: 990px) {
     .navbar-expand-lg {
         background-color: #213159 !important;
     }
